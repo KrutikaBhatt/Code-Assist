@@ -1,0 +1,13 @@
+body{
+	background-image: url(../img/herringbone.png);
+}
+.logo{
+	font-family:'Peralta',cursive;
+}
+.logo{
+	color: rgba(0,0,0,0.3);
+}
+.logo a:hover,
+.logo a:active{
+	text-decoration: none;
+}
