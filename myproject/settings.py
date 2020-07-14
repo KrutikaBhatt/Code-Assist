@@ -1,5 +1,4 @@
-from decouple import config
-import dj_database_url
+
 
 """
 Django settings for myproject project.
@@ -23,13 +22,12 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/3.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = config('SECRET_KEY')
+SECRET_KEY = '6r#ecjr8)d=49_aaq#1t((zv2e%*rmy49jp@0gg#o+5j$*eihi'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = config('DEBUG',default=False,cast=bool)
+DEBUG = True
 
-ALLOWED_HOSTS = config('DEBUG',default=False,cast=bool)
-
+ALLOWED_HOSTS = [.localhost,127.0.0.1]
 
 # Application definition
 
