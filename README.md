@@ -16,6 +16,7 @@ This is my first django Application. Its mostly like a Discussion forum that pro
 -  Clean the database and enter some more users
 -  Deploy the Application!
 <br>
+
 [![Cap1.png](https://i.postimg.cc/Vv6HPwY7/Cap1.png)](https://postimg.cc/sQkJ5tGS)
 
 
