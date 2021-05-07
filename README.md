@@ -10,10 +10,3 @@ This is my first django Application. Its mostly like a Discussion forum that pro
 3. pip install requirement.txt
 4. python manage.py runserver
 ```
-### To do list :
-- Insert regex for signin login page
--  Change the UI and name
--  Clean the database and enter some more users
--  Deploy the Application!
-<br>
-
