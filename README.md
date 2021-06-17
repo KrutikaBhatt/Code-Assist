@@ -6,7 +6,12 @@ This is my first django Application. Its mostly like a Discussion forum that pro
 ### View the Project	😀 - http://codeassist.pythonanywhere.com/
 
 ### Some Screenshots :
-1. 
+![Homepage](https://github.com/KrutikaBhatt/Code-Assist/blob/master/images/Code1.PNG)
+
+<br><br>
+![Homepage2](https://github.com/KrutikaBhatt/Code-Assist/blob/master/images/code2.PNG)
+
+<br><br>
 ### How to run the project
 ```
 1. git clone https://github.com/KrutikaBhatt/Post_and_Chat-django/
