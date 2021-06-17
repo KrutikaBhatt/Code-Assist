@@ -1,0 +1,1 @@
+All the images used to describe the project in Readme.md are stored in this folder
